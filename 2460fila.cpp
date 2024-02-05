@@ -7,7 +7,7 @@ using namespace std;
 #define s second
 #define pb push_back
 
-#define dgb(x) cout << #x << " = " << x << endl //facilita MUITO o debug
+#define dgb(x) cout << #x << " = " << x << endl 
 
 
 typedef pair<int, int> ii;

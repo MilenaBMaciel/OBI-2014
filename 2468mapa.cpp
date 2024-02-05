@@ -8,7 +8,7 @@ using namespace std;
 #define pb push_back
 #define lli long long int
 
-#define dgb(x) cout << #x << " = " << x << endl //facilita MUITO o debug
+#define dgb(x) cout << #x << " = " << x << endl
 
 
 typedef pair<int, int> ii;
